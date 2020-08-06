@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.zhyframework.boot</groupId>
+  <artifactId>dilemma-boot</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200806.105717</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200806105717</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20200806.105717-1</value>
+        <updated>20200806105717</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20200806.105717-1</value>
+        <updated>20200806105717</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
